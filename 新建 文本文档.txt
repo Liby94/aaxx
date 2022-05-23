@@ -1,0 +1,5 @@
+https://github.com/KailuZhang/TabLayoutMediator2
+
+https://github.com/gaoyangcr7/RecyclerViewTabLayout/blob/master/app/src/main/java/com/nestia/tablayoutrecyclerview/MainActivity.java
+
+https://www.jianshu.com/p/2e1995c0ccfe

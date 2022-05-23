@@ -1,0 +1,2 @@
+include ':immersionbar', ':immersionbar-ktx', ':immersionbar-components', ':immersionbar-sample'
+include ':myapplication'
